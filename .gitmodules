@@ -1,0 +1,3 @@
+[submodule "ProxyPatternVP"]
+	path = ProxyPatternVP
+	url = https://github.com/vanpeeters/VanessaPeetersHCLTraining.git
